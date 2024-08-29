@@ -25,9 +25,3 @@ This website serves as a digital portfolio showcasing:
 ## Getting Started
 
 To view the live site, visit: [https://LennoxP.github.io](https://LennoxP.github.io)
-
-To view the website locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
